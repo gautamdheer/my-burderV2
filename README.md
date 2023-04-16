@@ -1,7 +1,7 @@
-#Create Burger App in React.js
+# Create Burger App in React.js
 This repository contains the code for a Burger App created in React.js. The Burger App is a simple web application that allows users to build their own burger by selecting ingredients, placing orders, and viewing order details. The application uses React.js, Redux, and Firebase for the development and deployment.
 
-##Getting Started
+## Getting Started
 To get started with the Burger App, follow the instructions below:
 
 Clone this repository using git clone https://github.com/gautamdheer/my-burderV2.git
@@ -9,7 +9,7 @@ Install the dependencies using npm install
 Start the development server using npm start
 The development server should now be running at http://localhost:3000.
 
-##Features
+## Features
 The Burger App comes with the following features:
 
 Build a burger by selecting ingredients
@@ -18,7 +18,7 @@ View orders history and details
 Authentication using Firebase
 Redux for state management
 
-##Technologies Used
+## Technologies Used
 The Burger App was built using the following technologies:
 
 React.js
@@ -27,5 +27,5 @@ Firebase
 Contributing
 Contributions to the Burger App are welcome. If you find any bugs or want to add a new feature, please open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
